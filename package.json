@@ -1,0 +1,32 @@
+{
+  "name": "guysnfldraftlockerroom",
+  "version": "0.1.0",
+  "description": "Guy's NFL Draft Locker Room",
+  "author": "Coby Pritchard",
+  "homepage": "https://github.com/SilentSmuggler/guysnfldraftlockerroom#readme",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilentSmuggler/guysnfldraftlockerroom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SilentSmuggler/guysnfldraftlockerroom/issues"
+  },
+  "keywords": [
+    "NFL",
+    "Draft"
+  ],
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "jade": "~1.11.0",
+    "mongoose": "^4.2.5",
+    "morgan": "~1.6.1",
+    "serve-favicon": "~2.3.0"
+  },
+  "license": "MPL-2.0"
+}
